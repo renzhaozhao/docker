@@ -1,0 +1,7 @@
+{
+  "hosts": {
+    "http://www.wyunbank.com:83/api/": {
+      "token": "cli-qspd5kojh5c3dil6x7zf4biqrhpt"
+    }
+  }
+}

@@ -55,3 +55,6 @@ docker exec -it ubuntu /bin/zsh
 ls -l #2进制换10进制，出来777
 chmod 777 文件名
 ```
+
+可用工具
+screefetch 

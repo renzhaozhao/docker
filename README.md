@@ -58,3 +58,15 @@ chmod 777 文件名
 
 可用工具
 screefetch 
+linux_logo或linuxlogo
+
+```
+apt-get install linux_logo或linuxlogo
+linux_logo -f -L list //查看内置列表
+linux_logo -f -L aix  //查看aix logo
+linux_logo -f -L openbsd //查看openbsd logo
+linux_logo -f -L random_xy //随机查看
+
+screefetch -h
+linux_logo -h
+```
